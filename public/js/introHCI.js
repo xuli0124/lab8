@@ -10,5 +10,6 @@ $(document).ready(function() {
  */
 function initializePage() {
   initCamera();
+  console.log("hello");
 }
 
